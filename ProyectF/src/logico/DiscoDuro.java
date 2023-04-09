@@ -10,8 +10,7 @@ public class DiscoDuro extends Componente {
 		this.modelo = modelo;
 		this.almacenamiento = almacenamiento;
 		this.tipoConector = tipoConector;
-		
-		// TODO Auto-generated constructor stub
+			
 	}
 
 	public String getModelo() {

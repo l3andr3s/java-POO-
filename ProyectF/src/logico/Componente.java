@@ -15,6 +15,8 @@ public class Componente {
 		this.precio = precio;
 	}
 
+	
+
 	public String getMarca() {
 		return marca;
 	}
