@@ -8,7 +8,7 @@ public class Componente {
 	protected int cantidad;
 	protected float precio;
 	
-	public Componente(String marca, String numeroSerie, int cantidad, float precio) {
+	public Componente( String numeroSerie, int cantidad, float precio) {
 		super();
 		this.numeroSerie = numeroSerie;
 		this.cantidad = cantidad;
